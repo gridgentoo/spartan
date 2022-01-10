@@ -1,3 +1,6 @@
+Оригинальный репозиторий.  
+https://github.com/ivan770/spartan.  
+
 <h1 align="center">Spartan MQ</h1>
 
 <h4 align="center">
